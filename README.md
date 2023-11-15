@@ -1,4 +1,8 @@
-### Hi there 👋
+### 👋 🌏
+
+- Aspiring data scientist with background in communications
+- Currently learning LangChain to use with LLMs for topic modelling and text parsing
+
 
 <!--
 **yanejw/yanejw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +18,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
